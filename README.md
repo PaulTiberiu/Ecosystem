@@ -23,7 +23,10 @@ Then, to execute:
 ```
 ./ecosys
 ```
+Then, you will see the simulation of the ecosystem. It will last for 200 iterations. You also have a graph that shows how the preys and predators evoluate each iteration.
+
 After finishing, you can clean the .o files:
 ```
 make clean
 ```
+
