@@ -6,9 +6,9 @@ This project was realised for the advanced C module LU2IN018 at Sorbonne Univers
   - The predators cand eat preys to gain energy.
   - We also have the posibility to have some animals that are both preys and predators
   - Each case of the matrix contains: 
-      * for at least 1 predator
-      0 for at least 1 prey
-      empty when the case isn't occupied
+      - "*" for at least 1 predator
+      - "0" for at least 1 prey
+      - empty when the case isn't occupied
       
 ## File organization      
 The functions can be seen in the ecosys.c and ecosys.h files. This functions are tested in the main_tests.c file.
