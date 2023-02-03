@@ -4,7 +4,6 @@ This project was realised for the advanced C module LU2IN018 at Sorbonne Univers
   - All the animals can go left, right, up or down in the environment at each step of the simulation. The animals die when they have no energy left.
   - The preys can eat grass to gain energy, and they can also randomly reproduce. All of this actions are done on an empty case of the matrix.
   - The predators cand eat preys to gain energy.
-  - We also have the posibility to have some animals that are both preys and predators
   - Each case of the matrix contains: 
       - "*" for at least 1 predator
       - "0" for at least 1 prey
